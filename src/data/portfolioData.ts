@@ -21,7 +21,7 @@ export const userProfile: UserProfile = {
   locationFa: 'ایران',
   locationEn: 'Iran',
   socials: {
-    github: 'https://github.com/M_Tatar22',
+    github: 'https://github.com/M-Tatar22',
     telegram: 'https://t.me/M_Tatar22',
     twitter: 'https://x.com/M_Tatar22',
     email: 'mailto:matintatar01@gmail.com'
