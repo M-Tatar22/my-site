@@ -145,7 +145,7 @@ export const projectsData: ProjectItem[] = [
     image: '/ayene-rouz.jpg',
     tags: ['Next.js / React', 'Tailwind CSS', 'Vercel Deployment', 'Responsive UI'],
     liveUrl: 'https://ayene-rouz.vercel.app/',
-    githubUrl: 'https://github.com/M_Tatar22',
+    githubUrl: 'https://github.com/M-Tatar22',
     featured: true,
   },
   {
@@ -156,7 +156,7 @@ export const projectsData: ProjectItem[] = [
     descriptionEn: 'Document question-answering tool powered by Python, LangChain, and vector embeddings for contextual semantic retrieval.',
     image: 'https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80',
     tags: ['Python', 'LangChain', 'RAG Pipeline', 'LLMs'],
-    githubUrl: 'https://github.com/M_Tatar22',
+    githubUrl: 'https://github.com/M-Tatar22',
     featured: true,
   },
   {
@@ -167,7 +167,7 @@ export const projectsData: ProjectItem[] = [
     descriptionEn: 'Utility automation scripts designed to process datasets, parse files, and automate routine technical workflows.',
     image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80',
     tags: ['Python', 'Automation', 'Data Parsing', 'CLI'],
-    githubUrl: 'https://github.com/M_Tatar22',
+    githubUrl: 'https://github.com/M-Tatar22',
     featured: false,
   }
 ];
