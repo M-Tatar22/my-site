@@ -63,7 +63,7 @@ export const Contact: React.FC<ContactProps> = ({ lang }) => {
     },
     {
       name: 'GitHub',
-      value: 'github.com/M_Tatar22',
+      value: 'github.com/M-Tatar22',
       href: userProfile.socials.github,
       icon: Github,
     },
